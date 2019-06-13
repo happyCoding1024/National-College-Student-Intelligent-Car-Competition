@@ -5,7 +5,7 @@
 - The program is done by c language.IDE: code warrier  Single chip microcomputer:MC9S12XS128 group:Photoelectric. There are also board schematics, but I don't provide PCB.And I also provide some books about intelligent car competition.I think it may be useful for you.
 
 |Program language|C|
-|--|--|
+|!--!|!--!|
 |IDE|code warrior|
 |Single clip microcomputer|MC9S12XS128|
 |The kind of group|photoelectric|
