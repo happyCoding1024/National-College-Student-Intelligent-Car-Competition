@@ -7,5 +7,5 @@
 |Program language|C|
 |--|--|
 |IDE|code warrior|
-|Single clip microcomputer| MC9S12XS128|
-|The kind of group| photoelectric|
+|Single clip microcomputer|MC9S12XS128|
+|The kind of group|photoelectric|
