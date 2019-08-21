@@ -8,7 +8,7 @@
 
 ## 📖 目录(Small demo index)
 
-- 源代码：包含一个C完整的工程，需要利用CodeWarrior打开，这里附上下载地址:[CodeWarrior](https://pan.baidu.com/s/1OaR-rMcs25L2PQ8wMJJU9g)  提取码：lwdn，里面含有安装教程，按照教程安装即可。                                          
+- 源代码：包含一个C完整的工程，需要利用CodeWarrior打开，这里附上下载地址:[CodeWarrior](https://pan.baidu.com/s/1OaR-rMcs25L2PQ8wMJJU9g)  提取码：lwdn，里面含有安装教程，按照教程安装即可.                                          
 - 单片机: 包含我们当时采用的是16位的MC9S12XS128单片机的相关资料。
 - 智能车竞赛资料: 包含一些智能车竞赛的书籍和文档，这里附上[智能车竞赛论坛](http://www.znczz.com/member.php?mod=logging&action=login&referer=http%3A%2F%2Fwww.znczz.com%2Fforum.php%3Fmod%3Dforumdisplay%26fid%3D24%26page%3D1).里面的精华帖都值得好好看一下。
 
