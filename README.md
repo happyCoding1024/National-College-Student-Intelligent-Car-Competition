@@ -13,12 +13,9 @@
 - 单片机: 包含我们当时采用的是16位的MC9S12XS128单片机的相关资料。
 - 智能车竞赛资料: 包含一些智能车竞赛的书籍和文档，这里附上[智能车竞赛论坛](http://www.znczz.com/member.php?mod=logging&action=login&referer=http%3A%2F%2Fwww.znczz.com%2Fforum.php%3Fmod%3Dforumdisplay%26fid%3D24%26page%3D1).里面的精华帖都值得好好看一下。
 
-## 🔔 师兄叨叨两句(Suggestions)
+## 💻 联系我
+- 如果遇到任何问题欢迎与我联系。
+- [联系方式](https://happyCoding1024.github.io/FrontendLearningTool/file/联系方式/联系方式.html)
 
-1. 对于刚进入大学的小伙伴来说，如果学校有针对学生的实验室，尽可能去争取一下，加入了它，你的大学生活至少不会迷茫；
-2. 想参加智能车竞赛的同学平时多看[智能车竞赛论坛](http://www.znczz.com/member.php?mod=logging&action=login&referer=http%3A%2F%2Fwww.znczz.com%2Fforum.php%3Fmod%3Dforumdisplay%26fid%3D24%26page%3D1)，像北科这种强队的技术报告要仔细进行研究；
-3. 团队合作很重要，很重要，很重要；
-4. 通宵调车，历历在目，虽然成绩不是很理想，但满满都是收获，想参加就行动起来吧；
-5. 如果资料有什么问题，欢迎[戳我](https://github.com/happyCoding1024/FrontendLearningTool/issues)哦。
 
 
